@@ -4,6 +4,7 @@ import Slider from './Slider'
 const App = () => {
   return (
     <div>
+      HIII
       <Slider/>
     </div>
   )
